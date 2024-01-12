@@ -135,7 +135,7 @@
     animation: premeet 4s ease-in-out 1 13s, meet 3s ease-in-out infinite 17s; 
     animation-direction: alternate;
     transform: translateX(-50px);
-    Filter: drop-shadow(-2px -2px 20px rgb(8, 255, 234));
+    filter: drop-shadow(-2px -2px 20px rgb(8, 255, 234));
 }
 
 @keyframes data {
